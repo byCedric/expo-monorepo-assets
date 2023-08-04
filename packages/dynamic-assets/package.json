@@ -1,0 +1,12 @@
+{
+  "name": "@acme/dynamic-assets",
+  "version": "0.0.0",
+  "main": "src/index.ts",
+  "files": [
+    "src",
+    "static"
+  ],
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.2"
+  }
+}
