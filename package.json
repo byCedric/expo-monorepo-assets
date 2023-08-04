@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "@acme/monorepo",
+  "version": "0.0.0",
+  "author": "Cedric van Putten <github@cedric.dev>",
+  "license": "MIT",
+  "workspaces": {
+    "packages": [
+      "apps/*",
+      "packages/*"
+    ]
+  }
+}
